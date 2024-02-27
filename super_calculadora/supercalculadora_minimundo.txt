@@ -1,0 +1,3 @@
+Essa calculadora irá além das 4 operações básicas, podendo usar porcentagem; modulo; potenciacao; raiz quadrada; etc
+Também contará com a funcionalidade de listar a tabuada inteira de determinado valor que o usuario deseja e um conversor de unidades (ainda pensando em quais unidades).
+O usuario podera escolher a funcionalidade de acordo com o numero da mesma na tela (pensando em outro jeito de fazer isso melhor).
